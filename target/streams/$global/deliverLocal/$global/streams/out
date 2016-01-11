@@ -1,4 +1,0 @@
-[0m[[0minfo[0m] [0m:: delivering :: com.abhi#akkatest_2.11;1.0.0-SNAPSHOT :: 1.0.0-SNAPSHOT :: integration :: Sun Jan 10 20:08:02 CST 2016[0m
-[0m[[0mdebug[0m] [0m	options = status=integration pubdate=Sun Jan 10 20:08:02 CST 2016 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
-[0m[[0minfo[0m] [0m	delivering ivy file to /Users/abhishek.srivastava/MyProjects/AkkaTest/target/scala-2.11/ivy-1.0.0-SNAPSHOT.xml[0m
-[0m[[0mdebug[0m] [0m	deliver done (24ms)[0m

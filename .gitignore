@@ -7,6 +7,9 @@
 *.o
 *.so
 target/*
+.idea/*
+project/project/*
+project/target/*
 
 # Packages #
 ############
